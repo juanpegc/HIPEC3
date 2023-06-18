@@ -133,7 +133,6 @@ header a:hover {
   object-fit: cover;
 }
 
-
 @media (max-width: 400px) {
   
   #indice p {
@@ -205,11 +204,10 @@ footer {
   text-align: center;
 }
 
-#hora #hora_input {
+#hora_input {
   margin-top: -10px;
   font-size: 30px;
 }
-
 
 @media (max-width: 950px) {
 
