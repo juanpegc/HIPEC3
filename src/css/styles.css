@@ -14,6 +14,7 @@ header {
 
 #home:hover {
   animation: rebote 0.5s ease infinite;
+  color: aqua;
 }
 
 @keyframes rebote {
@@ -63,12 +64,6 @@ body {
   z-index: -1;
 }
 
-#cropDiv {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 #title {
   text-align: center;
 }
@@ -77,14 +72,6 @@ header a {
   color: white;
   text-decoration: none;
   font-size: 2rem;
-}
-
-header a:hover {
-  color: aqua;
-}
-
-.box-icons {
-  color: white;
 }
 
 #content {
